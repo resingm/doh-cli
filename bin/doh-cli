@@ -17,6 +17,8 @@ DOH_URL = {
     "cira": "https://private.canadianshield.cira.ca/dns-query",
     "cira-protect": "https://protected.canadianshield.cira.ca/dns-query",
     "cira-family": "https://family.canadianshield.cira.ca/dns-query",
+    "dns4eu-protective": "protective.joindns4.eu/dns-query",
+    "dns4eu-unfiltered": "unfiltered.joindns4.eu/dns-query",
     "securedns": "https://doh.securedns.eu/dns-query",
     "securedns-ads": "https://ads-doh.securedns.eu/dns-query",
 }
