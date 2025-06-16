@@ -62,6 +62,8 @@ doh-cli --help
 - [LibreDNS](https://libredns.gr)
 - [Google](https://dns.google)
 - [Cloudflare](https://cloudflare-dns.com)
+- [DNS0](https://www.dns0.eu/)
+- [DNS4EU](https://www.joindns4.eu/for-public)
 - [Quad9](https://quad9.net)
 - [CleanBrowsing](https://doh.cleanbrowsing.org)
 - [CIRA](https://www.cira.ca/cybersecurity-services/canadian-shield)
@@ -81,8 +83,15 @@ doh-cli --help
 - cira (CIRA's Canadian Shield)
 - cira-protect (Malware and phishing protection)
 - cira-family (blocking pornographic content plus protected)
+- dns0
+- dns0-kids (family friendly name resolution)
+- dns4eu (security optimized protection)
+- dns4eu-child (family friendly name resolution)
+- dns4eu-noads (blocks known advertising infrastructure)
+- dns4eu-child-noadds (blocks known advertising infrastructure and enforces family friendly name resolution)
+- dns4eu-unfiltered (plain, unfiltered DNS name resolution)
 - securedns
-- securedns-ads (blockign ads, malware and phishing)
+- securedns-ads (blocking ads, malware and phishing)
 
 ## Some Examples
 
